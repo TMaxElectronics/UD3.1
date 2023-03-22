@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Gate.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Gate.SchDoc|FileName=UD3.1 Analog IO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Gate.SchDoc|FileName=UD3.1 Digital IO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Gate.SchDoc|FileName=UD3.1 Gate Driver.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Gate.SchDoc|FileName=UD3.1 PSOC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Gate.SchDoc|FileName=UD3.1 Supplies.SchDoc|SheetNumber= 
