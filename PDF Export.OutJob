@@ -49,7 +49,7 @@ Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=All SCH Documents
 
 [PublishSettings]
-OutputFilePath2=F:\OneDrive\Altium\Projects\UD3.1\.\Job1.PDF
+OutputFilePath2=F:\OneDrive\Altium\Projects\UD3.1\.\UD3.1 Schematic.PDF
 ReleaseManaged2=0
 OutputBasePath2=.\
 OutputPathMedia2=
@@ -57,7 +57,7 @@ OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=UD3.1 Schematic
+OutputFileName2=Schematic
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
@@ -128,7 +128,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=F:\OneDrive\Altium\Projects\UD3.1\.\Job1.PDF
+RelativeOutputPath2=F:\OneDrive\Altium\Projects\UD3.1\.\UD3.1 Schematic.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
