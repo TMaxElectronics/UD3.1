@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for UD3.1
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -49,57 +49,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=UD3B.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GSVHKLXR
-
-[Document2]
-DocumentPath=UD2 CPLD.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EYQVOUBG
-
-[Document3]
-DocumentPath=UD2 CPLD.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XLTFPTIA
-
-[Document4]
 DocumentPath=Gate.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -116,7 +65,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CTIKWOJS
 
-[Document5]
+[Document2]
 DocumentPath=UD3.1 PSOC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BIEBGWNX
 
-[Document6]
+[Document3]
 DocumentPath=UD3.1 Supplies.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
@@ -150,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMJBLBRO
 
-[Document7]
+[Document4]
 DocumentPath=UD3.1 Gate Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=200
@@ -167,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DURPQRPU
 
-[Document8]
+[Document5]
 DocumentPath=UD3.1 Analog IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=300
@@ -184,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUIAZDYK
 
-[Document9]
+[Document6]
 DocumentPath=UD3.1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=400
@@ -201,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LIGIJNUL
 
-[Document10]
+[Document7]
 DocumentPath=UD3.1 Digital IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=500
@@ -218,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ROTSTXZK
 
-[Document11]
+[Document8]
 DocumentPath=..\..\Libraries\stdCon.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YRDUWSMH
 
-[Document12]
+[Document9]
 DocumentPath=..\..\Libraries\stdCon.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBKNCGPF
 
-[Document13]
+[Document10]
 DocumentPath=..\..\Libraries\stdLED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document11]
 DocumentPath=..\..\Libraries\stdLED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -284,9 +233,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RGWNVGFJ
 
-[Document15]
+[Document12]
 DocumentPath=..\..\Libraries\stdLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LOBOCPPI
 
-[Document16]
+[Document13]
 DocumentPath=..\..\Libraries\stdLib.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTEERBKT
 
-[Document17]
+[Document14]
 DocumentPath=..\..\Libraries\Transformers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,8 +286,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document15]
 DocumentPath=..\..\Libraries\Transformers.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AOXVPULI
+
+[Document16]
+DocumentPath=PDF Export.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -363,6 +329,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=
 ConfigurationType=
+
+[Generic_EDE]
+OutputDir=Project Outputs for UD3.1
 
 [OutputGroup1]
 Name=Netlist Outputs
