@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=NetQ9_D Pin=Q9-D
+Removed Pin From Net: NetName=NetQ9_G Pin=Q9-G
+Removed Pin From Net: NetName=GND Pin=Q9-S
+Removed Pin From Net: NetName=GND Pin=Q9-S
+Removed Pin From Net: NetName=GND Pin=Q9-S
+Removed Pin From Net: NetName=NetQ10_D Pin=Q10-D
+Removed Pin From Net: NetName=NetQ10_G Pin=Q10-G
+Removed Pin From Net: NetName=GND Pin=Q10-S
+Removed Pin From Net: NetName=GND Pin=Q10-S
+Removed Pin From Net: NetName=GND Pin=Q10-S
+Removed Pin From Net: NetName=NetQ12_D Pin=Q12-D
+Removed Pin From Net: NetName=NetQ12_G Pin=Q12-G
+Removed Pin From Net: NetName=GND Pin=Q12-S
+Removed Pin From Net: NetName=GND Pin=Q12-S
+Removed Pin From Net: NetName=GND Pin=Q12-S
+Removed Pin From Net: NetName=NetQ13_D Pin=Q13-D
+Removed Pin From Net: NetName=NetQ13_G Pin=Q13-G
+Removed Pin From Net: NetName=GND Pin=Q13-S
+Removed Pin From Net: NetName=GND Pin=Q13-S
+Removed Pin From Net: NetName=GND Pin=Q13-S
+Change Component Footprint: Designator=Q9 Old Footprint=LFPAK56 New Footprint=sot 23
+Change Component Footprint: Designator=Q10 Old Footprint=LFPAK56 New Footprint=sot 23
+Change Component Footprint: Designator=Q12 Old Footprint=LFPAK56 New Footprint=sot 23
+Change Component Footprint: Designator=Q13 Old Footprint=LFPAK56 New Footprint=sot 23
+Add Component: Footprint Not Found 1206C
+Added Component: Designator=Reg?(TO220 Retrofit DC-DC)
+Add Component: Footprint Not Found SO-8
+Add Pin To Net: Unknown Pin: Pin C39-1
+Add Pin To Net: Unknown Pin: Pin C39-2
+Added Pin To Net: NetName=NetQ9_G Pin=Q9-1
+Added Pin To Net: NetName=GND Pin=Q9-2
+Added Pin To Net: NetName=NetQ9_D Pin=Q9-3
+Added Pin To Net: NetName=NetQ10_G Pin=Q10-1
+Added Pin To Net: NetName=GND Pin=Q10-2
+Added Pin To Net: NetName=NetQ10_D Pin=Q10-3
+Added Pin To Net: NetName=NetQ12_G Pin=Q12-1
+Added Pin To Net: NetName=GND Pin=Q12-2
+Added Pin To Net: NetName=NetQ12_D Pin=Q12-3
+Added Pin To Net: NetName=NetQ13_G Pin=Q13-1
+Added Pin To Net: NetName=GND Pin=Q13-2
+Added Pin To Net: NetName=NetQ13_D Pin=Q13-3
+Added Pin To Net: NetName=GND Pin=Reg?-2
+Added Pin To Net: NetName=+5V Pin=Reg?-3
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Net: Net with name "+24V" already exists
+Add Net: Net with name "LED1" already exists
+Add Class Member: Failed to add class member : Component C39 GRM31CF51H475ZA01L
+Added Member To Class: ClassName=UD3.1 Member=Component J13 USB 2.0 Type B Jack
+Added Member To Class: ClassName=Power Supply Member=Component Reg? DD4012SA 5V
+Add Class Member: Failed to add class member : Component U1 TC7660S

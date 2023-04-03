@@ -1,0 +1,18 @@
+Add Component: Footprint Not Found 1206C
+Added Component: Designator=Reg?(TO220 Retrofit DC-DC)
+Add Component: Footprint Not Found SO-8
+Add Pin To Net: Unknown Pin: Pin C39-1
+Add Pin To Net: Unknown Pin: Pin C39-2
+Added Pin To Net: NetName=GND Pin=Reg?-2
+Added Pin To Net: NetName=+5V Pin=Reg?-3
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Net: Net with name "+24V" already exists
+Add Net: Net with name "LED1" already exists
+Add Class Member: Failed to add class member : Component C39 GRM31CF51H475ZA01L
+Added Member To Class: ClassName=Power Supply Member=Component Reg? DD4012SA 5V
+Add Class Member: Failed to add class member : Component U1 TC7660S
