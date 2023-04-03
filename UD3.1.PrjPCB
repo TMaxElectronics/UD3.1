@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for UD3.1
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -331,7 +331,7 @@ ContentTypeGUID=
 ConfigurationType=
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for UD3.1
 
 [OutputGroup1]
 Name=Netlist Outputs
