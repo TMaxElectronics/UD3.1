@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC39_2 Pin=U1-2
+Removed Pin From Net: NetName=NetC39_1 Pin=U1-4
+Change Footprint: Cannot match pads with new footprint in component :D7 Footprint:DO-214
+Change Component Designator: OldDesignator=Jp? NewDesignator=Jp10
+Change Component Designator: OldDesignator=Jp? NewDesignator=Jp11
+Change Component Designator: OldDesignator=Reg? NewDesignator=Reg3
+Added Component: Designator=C39(0603)
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=NetC39_2 Pin=C39-2
+Added Pin To Net: NetName=NetC39_1 Pin=U1-2
+Added Pin To Net: NetName=NetC39_2 Pin=U1-4
+Add Net: Net with name "+24V" already exists
+Add Net: Net with name "LED1" already exists
+Added Member To Class: ClassName=Power Supply Member=Component C39 4.7uF
+Added Member To Class: ClassName=UD3.1 Member=Component Jp11 LEM 12V

@@ -1,0 +1,6 @@
+Change Component Comment : Designator=R47 Old Comment=Resistor New Comment=100
+Change Component Comment : Designator=R48 Old Comment=Resistor New Comment=100
+Add Pin To Net: Unknown Pin: Pin D7-A
+Add Pin To Net: Unknown Pin: Pin D7-K
+Add Net: Net with name "+24V" already exists
+Add Net: Net with name "LED1" already exists

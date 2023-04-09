@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=NetC44_2 Pin=Q1-3
+Removed Pin From Net: NetName=+VDrive Pin=Q1-5/6
+Removed Pin From Net: NetName=NetC44_2 Pin=Q1-7/8
+Removed Pin From Net: NetName=GND Pin=Q2-1
+Removed Pin From Net: NetName=NetC45_2 Pin=Q2-3
+Removed Pin From Net: NetName=+VDrive Pin=Q2-5/6
+Removed Pin From Net: NetName=NetC45_2 Pin=Q2-7/8
+Removed Pin From Net: NetName=NetQ1_G1 Pin=R19-2
+Removed Pin From Net: NetName=NetQ2_G1 Pin=R20-2
+Removed Pin From Net: NetName=NetQ1_G2 Pin=R26-2
+Removed Pin From Net: NetName=NetQ2_G2 Pin=R27-2
+Add Pin To Net: Unknown Pin: Pin D7-A
+Add Pin To Net: Unknown Pin: Pin D7-K
+Added Pin To Net: NetName=NetC44_2 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=NetC44_2 Pin=Q1-5/6
+Added Pin To Net: NetName=+VDrive Pin=Q1-7/8
+Added Pin To Net: NetName=NetC45_2 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=NetC45_2 Pin=Q2-5/6
+Added Pin To Net: NetName=+VDrive Pin=Q2-7/8
+Added Pin To Net: NetName=NetQ1_G2 Pin=R19-2
+Added Pin To Net: NetName=NetQ2_G2 Pin=R20-2
+Added Pin To Net: NetName=NetQ1_G1 Pin=R26-2
+Added Pin To Net: NetName=NetQ2_G1 Pin=R27-2
+Add Net: Net with name "+24V" already exists
+Add Net: Net with name "LED1" already exists

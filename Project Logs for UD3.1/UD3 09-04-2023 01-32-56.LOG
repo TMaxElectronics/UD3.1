@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=C70 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C71 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C72 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C73 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=R45 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=R46 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C62 Old Footprint=0805 New Footprint=1206
+Change Component Footprint: Designator=C63 Old Footprint=0805 New Footprint=1206
+Add Pin To Net: Unknown Pin: Pin D7-A
+Add Pin To Net: Unknown Pin: Pin D7-K
+Add Net: Net with name "+24V" already exists
+Add Net: Net with name "LED1" already exists

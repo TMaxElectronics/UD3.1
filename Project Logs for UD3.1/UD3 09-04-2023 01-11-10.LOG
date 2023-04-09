@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=Q3-1
+Removed Pin From Net: NetName=NetQ3_G1 Pin=Q3-2
+Removed Pin From Net: NetName=NetC62_2 Pin=Q3-3
+Removed Pin From Net: NetName=NetQ3_G2 Pin=Q3-4
+Removed Pin From Net: NetName=+VDrive Pin=Q3-5/6
+Removed Pin From Net: NetName=NetC62_2 Pin=Q3-7/8
+Removed Pin From Net: NetName=NetQ3_G1 Pin=R32-2
+Removed Pin From Net: NetName=NetQ3_G2 Pin=R41-2
+Added Component: Designator=Q3(SO-8FL - Dual)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D7-A
+Add Pin To Net: Unknown Pin: Pin D7-K
+Added Pin To Net: NetName=NetC62_2 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_G1 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_G2 Pin=Q3-4
+Added Pin To Net: NetName=NetC62_2 Pin=Q3-5/6
+Added Pin To Net: NetName=+VDrive Pin=Q3-7/8
+Added Pin To Net: NetName=NetQ3_G2 Pin=R32-2
+Added Pin To Net: NetName=NetQ3_G1 Pin=R41-2
+Add Net: Net with name "+24V" already exists
+Add Net: Net with name "LED1" already exists
+Added Room: Name=AFE
+Added Room: Name=Controller
+Added Room: Name=Digital IO
+Added Room: Name=GDT Driver powerstage
+Added Room: Name=Power Supply
+Added Room: Name=UD3.1

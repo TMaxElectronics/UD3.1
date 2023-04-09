@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=+12V Pin=J16-1
+Removed Pin From Net: NetName=GND Pin=Q4-1
+Removed Pin From Net: NetName=NetC63_2 Pin=Q4-3
+Removed Pin From Net: NetName=+VDrive Pin=Q4-5/6
+Removed Pin From Net: NetName=NetC63_2 Pin=Q4-7/8
+Removed Pin From Net: NetName=NetQ4_G1 Pin=R34-2
+Removed Pin From Net: NetName=NetQ4_G2 Pin=R42-2
+Change Component Footprint: Designator=C24 Old Footprint=0603 New Footprint=0402
+Change Component Footprint: Designator=R10 Old Footprint=0603 New Footprint=2512
+Change Component Footprint: Designator=R11 Old Footprint=0603 New Footprint=2512
+Change Component Footprint: Designator=R12 Old Footprint=0603 New Footprint=2512
+Change Component Footprint: Designator=R13 Old Footprint=0603 New Footprint=2512
+Change Component Footprint: Designator=C42 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C43 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C46 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C47 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C60 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C61 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C64 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C65 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C63 Old Footprint=0805 New Footprint=1206
+Change Footprint: Cannot match pads with new footprint in component :D7 Footprint:DO-214
+Change Component Comment : Designator=J10 Old Comment=Serial New Comment=6 pin header
+Add Component: Footprint Not Found 1206C
+Added Component: Designator=Jp?(PCB Jumper NO)
+Added Component: Designator=Jp?(PCB Jumper NO)
+Add Component: Footprint Not Found SO-8
+Add Pin To Net: Unknown Pin: Pin C39-1
+Add Pin To Net: Unknown Pin: Pin C39-2
+Added Pin To Net: NetName=+5V Pin=Jp?-2
+Added Pin To Net: NetName=+12V Pin=Jp?-2
+Added Pin To Net: NetName=NetC63_2 Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=NetC63_2 Pin=Q4-5/6
+Added Pin To Net: NetName=+VDrive Pin=Q4-7/8
+Added Pin To Net: NetName=NetQ4_G2 Pin=R34-2
+Added Pin To Net: NetName=NetQ4_G1 Pin=R42-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Net: Net with name "+24V" already exists
+Add Net: Net with name "LED1" already exists
+Added Pin To Net: NetName=NetJ16_1 Pin=J16-1
+Added Pin To Net: NetName=NetJ16_1 Pin=Jp?-1
+Added Pin To Net: NetName=NetJ16_1 Pin=Jp?-1
+Added Net: Name=NetJ16_1
+Add Class Member: Failed to add class member : Component C39 GRM31CF51H475ZA01L
+Added Member To Class: ClassName=UD3.1 Member=Component Jp? LEM 12V
+Added Member To Class: ClassName=UD3.1 Member=Component Jp? LEM 5V
+Add Class Member: Failed to add class member : Component U1 TC7660S
