@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=C25 Old Footprint=2917 Tantalum New Footprint=Elko 13 x 25 x 5
+Change Component Footprint: Designator=C26 Old Footprint=2917 Tantalum New Footprint=Elko 13 x 25 x 5
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X8 New Footprint=HDR1X9
+Change Component Comment : Designator=R8 Old Comment=10k New Comment=8.2k
+Change Component Comment : Designator=R5 Old Comment=10k New Comment=27k
+Change Component Comment : Designator=R7 Old Comment=10k New Comment=27k
+Change Component Comment : Designator=R4 Old Comment=10k New Comment=47k
+Change Component Comment : Designator=R3 Old Comment=10k New Comment=56k
+Change Component Comment : Designator=R97 Old Comment=22 New Comment=1k
+Change Component Comment : Designator=R107 Old Comment=22 New Comment=1k
+Change Component Comment : Designator=R115 Old Comment=22 New Comment=1k
+Change Component Comment : Designator=R121 Old Comment=22 New Comment=1k
+Change Component Comment : Designator=R98 Old Comment=100 New Comment=1k
+Change Component Comment : Designator=R113 Old Comment=100 New Comment=1k
+Change Component Comment : Designator=R114 Old Comment=100 New Comment=1k
+Change Component Comment : Designator=R124 Old Comment=100 New Comment=1k
+Change Component Comment : Designator=R125 Old Comment=100 New Comment=1k
+Change Component Comment : Designator=C25 Old Comment=1000uF 35V New Comment=1mF 35V
+Change Component Comment : Designator=C26 Old Comment=1000uF 35V New Comment=1mF 35V
+Change Component Comment : Designator=P1 Old Comment=Gate Exp New Comment=Header 9
+Add Pin To Net: Unknown Pin: Pin D7-A
+Add Pin To Net: Unknown Pin: Pin D7-K
+Added Pin To Net: NetName=+VDrive Pin=P1-9
+Add Net: Net with name "+24V" already exists
+Add Net: Net with name "LED1" already exists

@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=L1 Old Footprint=0603 New Footprint=Inductor 11x11mm
+Add Net: Net with name "LED1" already exists

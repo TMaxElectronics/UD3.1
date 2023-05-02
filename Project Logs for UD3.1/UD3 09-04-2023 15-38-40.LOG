@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U1 Old Footprint=SO 8 New Footprint=SOIC8
+Add Pin To Net: Unknown Pin: Pin D7-A
+Add Pin To Net: Unknown Pin: Pin D7-K
+Add Net: Net with name "LED1" already exists

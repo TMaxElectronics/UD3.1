@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=D39 Old Footprint=DO-214 New Footprint=SOD523
+Change Component Footprint: Designator=D40 Old Footprint=DO-214 New Footprint=SOD523
+Change Component Footprint: Designator=D41 Old Footprint=DO-214 New Footprint=SOD523
+Change Component Footprint: Designator=D42 Old Footprint=DO-214 New Footprint=SOD523
+Add Net: Net with name "LED1" already exists

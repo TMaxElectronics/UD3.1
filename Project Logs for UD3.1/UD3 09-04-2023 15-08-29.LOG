@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=+24V Pin=C25-1
+Added Pin To Net: NetName=+24V Pin=C26-1
+Added Pin To Net: NetName=+24V Pin=C31-2
+Added Pin To Net: NetName=+24V Pin=C32-2
+Added Pin To Net: NetName=+24V Pin=C35-2
+Add Pin To Net: Unknown Pin: Pin D7-A
+Add Pin To Net: Unknown Pin: Pin D7-K
+Added Pin To Net: NetName=+24V Pin=J27-1
+Added Pin To Net: NetName=+24V Pin=J27-2
+Added Pin To Net: NetName=+24V Pin=Jp1-1
+Added Pin To Net: NetName=+24V Pin=R3-1
+Added Pin To Net: NetName=+24V Pin=Reg1-EP
+Added Pin To Net: NetName=+24V Pin=Reg2-1
+Added Pin To Net: NetName=+24V Pin=Reg3-1
+Add Net: Net with name "LED1" already exists

@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C21 Old Footprint=2917 Tantalum New Footprint=Elko 6,3 x 11 x 2,5
+Change Component Footprint: Designator=C37 Old Footprint=2917 Tantalum New Footprint=Elko 6,3 x 11 x 2,5
+Change Component Footprint: Designator=C27 Old Footprint=ESL476M100AH9AA New Footprint=Elko 6,3 x 11 x 2,5
+Change Component Footprint: Designator=C28 Old Footprint=ESL476M100AH9AA New Footprint=Elko 6,3 x 11 x 2,5
+Change Component Footprint: Designator=C34 Old Footprint=ESL476M100AH9AA New Footprint=Elko 6,3 x 11 x 2,5
+Change Component Comment : Designator=C34 Old Comment=100uF New Comment=68uF
+Change Component Comment : Designator=C37 Old Comment=100uF New Comment=68uF
+Change Component Comment : Designator=C21 Old Comment=330uF New Comment=68uF
+Change Component Comment : Designator=C27 Old Comment=330uF New Comment=68uF
+Change Component Comment : Designator=C28 Old Comment=330uF New Comment=68uF
+Add Net: Net with name "LED1" already exists

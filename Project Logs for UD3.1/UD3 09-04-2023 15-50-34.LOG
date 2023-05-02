@@ -1,0 +1,8 @@
+Added Component: Designator=D7(TO-277-3LD)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FSV12100VCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D7-A
+Added Pin To Net: NetName=GND Pin=D7-A
+Added Pin To Net: NetName=NetC33_1 Pin=D7-K
+Add Net: Net with name "LED1" already exists
+Added Member To Class: ClassName=Power Supply Member=Component D7 30V 5A

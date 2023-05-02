@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=Q5-1
+Removed Pin From Net: NetName=GND Pin=Q5-3
+Removed Pin From Net: NetName=NetQ5_G Pin=Q5-4
+Removed Pin From Net: NetName=NetQ5_D Pin=Q5-5
+Removed Pin From Net: NetName=NetQ5_D Pin=Q5-6
+Removed Pin From Net: NetName=NetQ5_D Pin=Q5-7
+Removed Pin From Net: NetName=NetQ5_D Pin=Q5-8
+Removed Pin From Net: NetName=GND Pin=Q7-1
+Removed Pin From Net: NetName=GND Pin=Q7-3
+Removed Pin From Net: NetName=NetQ7_G Pin=Q7-4
+Removed Pin From Net: NetName=NetQ7_D Pin=Q7-5
+Removed Pin From Net: NetName=NetQ7_D Pin=Q7-6
+Removed Pin From Net: NetName=NetQ7_D Pin=Q7-7
+Removed Pin From Net: NetName=NetQ7_D Pin=Q7-8
+Removed Pin From Net: NetName=GND Pin=Q8-1
+Removed Pin From Net: NetName=GND Pin=Q8-3
+Removed Pin From Net: NetName=NetQ8_G Pin=Q8-4
+Removed Pin From Net: NetName=NetQ8_D Pin=Q8-5
+Removed Pin From Net: NetName=NetQ8_D Pin=Q8-6
+Removed Pin From Net: NetName=NetQ8_D Pin=Q8-7
+Removed Pin From Net: NetName=NetQ8_D Pin=Q8-8
+Removed Pin From Net: NetName=GND Pin=Q11-1
+Removed Pin From Net: NetName=GND Pin=Q11-3
+Removed Pin From Net: NetName=NetQ11_G Pin=Q11-4
+Removed Pin From Net: NetName=NetQ11_D Pin=Q11-5
+Removed Pin From Net: NetName=NetQ11_D Pin=Q11-6
+Removed Pin From Net: NetName=NetQ11_D Pin=Q11-7
+Removed Pin From Net: NetName=NetQ11_D Pin=Q11-8
+Change Component Footprint: Designator=Q5 Old Footprint=SOIC8 New Footprint=sot 23
+Change Component Footprint: Designator=Q7 Old Footprint=SOIC8 New Footprint=sot 23
+Change Component Footprint: Designator=Q8 Old Footprint=SOIC8 New Footprint=sot 23
+Change Component Footprint: Designator=Q11 Old Footprint=SOIC8 New Footprint=sot 23
+Added Pin To Net: NetName=NetQ5_G Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_D Pin=Q5-3
+Added Pin To Net: NetName=NetQ7_G Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_D Pin=Q7-3
+Added Pin To Net: NetName=NetQ8_G Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_D Pin=Q8-3
+Added Pin To Net: NetName=NetQ11_G Pin=Q11-1
+Added Pin To Net: NetName=NetQ11_D Pin=Q11-3
+Add Net: Net with name "LED1" already exists

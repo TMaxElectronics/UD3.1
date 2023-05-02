@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=Reg2 Old Footprint=to220 New Footprint=TO252 DPAk
+Add Net: Net with name "LED1" already exists

@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=J26 Old Footprint=2 screw terminal New Footprint=2 screw terminal vertical
+Change Component Footprint: Designator=R82 Old Footprint=0603 New Footprint=1206
+Change Component Footprint: Designator=R10 Old Footprint=2512 New Footprint=0603
+Change Component Footprint: Designator=R11 Old Footprint=2512 New Footprint=0603
+Change Component Footprint: Designator=R12 Old Footprint=2512 New Footprint=0603
+Change Component Footprint: Designator=R13 Old Footprint=2512 New Footprint=0603
