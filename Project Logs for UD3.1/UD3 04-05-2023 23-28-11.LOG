@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NetC100_2 Pin=J11-2
+Added Pin To Net: NetName=NetC116_2 Pin=J12-1
+Add Net: Net with name "LED1" already exists

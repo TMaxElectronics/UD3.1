@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GDT2 DRV A Pin=D58-2
+Add Net: Net with name "LED1" already exists
+Added Pin To Net: NetName=NetD58_2 Pin=R148-1
+Added Pin To Net: NetName=NetD58_2 Pin=D58-1
+Added Net: Name=NetD58_2

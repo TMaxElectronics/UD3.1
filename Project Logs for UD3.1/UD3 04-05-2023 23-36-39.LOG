@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GDT2 DRV B Pin=IC7-5
+Removed Pin From Net: NetName=GDT2 DRV A Pin=IC7-7
+Removed Pin From Net: NetName=GD2B Pin=R143-1
+Removed Pin From Net: NetName=GD2A Pin=R144-1
+Change Component Footprint: Designator=C118 Old Footprint=1210 New Footprint=1206
+Change Component Footprint: Designator=C123 Old Footprint=1210 New Footprint=1206
+Change Component Footprint: Designator=R170 Old Footprint=1210 New Footprint=1206
+Added Pin To Net: NetName=GDT2 DRV A Pin=IC7-5
+Added Pin To Net: NetName=GDT2 DRV B Pin=IC7-7
+Added Pin To Net: NetName=GD2A Pin=R143-1
+Added Pin To Net: NetName=GD2B Pin=R144-1
+Add Net: Net with name "LED1" already exists

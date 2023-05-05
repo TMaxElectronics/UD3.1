@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+24V Pin=Jp12-2
+Removed Pin From Net: NetName=+24V Pin=Jp14-2
+Change Component Comment : Designator=Jp12 Old Comment=GD1 24V New Comment=GD1 VDrv
+Change Component Comment : Designator=Jp14 Old Comment=GD1 24V New Comment=GD1 VDrv
+Added Pin To Net: NetName=+VDrive Pin=Jp12-2
+Added Pin To Net: NetName=+VDrive Pin=Jp14-2
+Add Net: Net with name "LED1" already exists

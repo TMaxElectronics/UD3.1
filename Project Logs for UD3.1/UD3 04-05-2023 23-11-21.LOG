@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC103_2 Pin=TP9-1
+Removed Pin From Net: NetName=NetC104_2 Pin=TP10-1
+Removed Pin From Net: NetName=NetC108_2 Pin=TP11-1
+Removed Pin From Net: NetName=NetC109_2 Pin=TP12-1
+Removed Pin From Net: NetName=NetC119_2 Pin=TP13-1
+Removed Pin From Net: NetName=NetC120_2 Pin=TP14-1
+Removed Pin From Net: NetName=NetC124_2 Pin=TP15-1
+Removed Pin From Net: NetName=NetC125_2 Pin=TP16-1
+Removed Member From Class: ClassName=GDT Driver powerstage Member=TP9
+Removed Member From Class: ClassName=GDT Driver powerstage Member=TP10
+Removed Member From Class: ClassName=GDT Driver powerstage Member=TP11
+Removed Member From Class: ClassName=GDT Driver powerstage Member=TP12
+Removed Member From Class: ClassName=GDT Driver powerstage Member=TP13
+Removed Member From Class: ClassName=GDT Driver powerstage Member=TP14
+Removed Member From Class: ClassName=GDT Driver powerstage Member=TP15
+Removed Member From Class: ClassName=GDT Driver powerstage Member=TP16
+Add Net: Net with name "LED1" already exists

@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=NetC104_2 Pin=D54-1
+Removed Pin From Net: NetName=NetC103_2 Pin=D55-1
+Removed Pin From Net: NetName=GDT2 DRV A Pin=D56-2
+Removed Pin From Net: NetName=GDT1 DRV B Pin=D57-2
+Removed Pin From Net: NetName=GDT2 DRV A Pin=D58-1
+Removed Pin From Net: NetName=GDT1 DRV B Pin=D59-1
+Removed Pin From Net: NetName=NetC120_2 Pin=D64-1
+Removed Pin From Net: NetName=NetC119_2 Pin=D65-1
+Removed Pin From Net: NetName=GDT1 DRV A Pin=D66-2
+Removed Pin From Net: NetName=GDT1 DRV B Pin=D67-2
+Removed Pin From Net: NetName=GDT1 DRV A Pin=D68-1
+Removed Pin From Net: NetName=GDT1 DRV B Pin=D69-1
+Change Component Footprint: Designator=C103 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=R134 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=R140 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=D54 Old Footprint=SOD523 New Footprint=SOD123
+Change Component Footprint: Designator=D55 Old Footprint=SOD523 New Footprint=SOD123
+Change Component Footprint: Designator=D56 Old Footprint=SOD523 New Footprint=SOD123
+Change Component Footprint: Designator=D57 Old Footprint=SOD523 New Footprint=SOD123
+Change Component Footprint: Designator=D58 Old Footprint=SOD523 New Footprint=SOD123
+Change Component Footprint: Designator=D59 Old Footprint=SOD523 New Footprint=SOD123
+Change Component Footprint: Designator=D60 Old Footprint=SOD523 New Footprint=SOD123
+Change Component Footprint: Designator=D61 Old Footprint=SOD523 New Footprint=SOD123
+Change Component Footprint: Designator=D64 Old Footprint=SOD523 New Footprint=SOD123
+Change Component Footprint: Designator=D65 Old Footprint=SOD523 New Footprint=SOD123
+Change Component Footprint: Designator=D66 Old Footprint=SOD523 New Footprint=SOD123
+Change Component Footprint: Designator=D67 Old Footprint=SOD523 New Footprint=SOD123
+Change Component Footprint: Designator=D68 Old Footprint=SOD523 New Footprint=SOD123
+Change Component Footprint: Designator=D69 Old Footprint=SOD523 New Footprint=SOD123
+Change Component Footprint: Designator=D70 Old Footprint=SOD523 New Footprint=SOD123
+Change Component Footprint: Designator=D71 Old Footprint=SOD523 New Footprint=SOD123
+Change Component Comment : Designator=D56 Old Comment=Schottky New Comment=Diode
+Change Component Comment : Designator=D57 Old Comment=Schottky New Comment=Diode
+Change Component Comment : Designator=D58 Old Comment=Schottky New Comment=Diode
+Change Component Comment : Designator=D59 Old Comment=Schottky New Comment=Diode
+Change Component Comment : Designator=D66 Old Comment=Schottky New Comment=Diode
+Change Component Comment : Designator=D67 Old Comment=Schottky New Comment=Diode
+Change Component Comment : Designator=D68 Old Comment=Schottky New Comment=Diode
+Change Component Comment : Designator=D69 Old Comment=Schottky New Comment=Diode
+Added Pin To Net: NetName=NetC103_2 Pin=D54-1
+Added Pin To Net: NetName=NetC104_2 Pin=D55-1
+Added Pin To Net: NetName=GDT2 DRV A Pin=D56-1
+Added Pin To Net: NetName=GDT1 DRV B Pin=D57-1
+Added Pin To Net: NetName=GDT1 DRV B Pin=D59-2
+Added Pin To Net: NetName=NetC119_2 Pin=D64-1
+Added Pin To Net: NetName=NetC120_2 Pin=D65-1
+Added Pin To Net: NetName=GDT1 DRV A Pin=D66-1
+Added Pin To Net: NetName=GDT1 DRV B Pin=D67-1
+Added Pin To Net: NetName=GDT1 DRV A Pin=D68-2
+Added Pin To Net: NetName=GDT1 DRV B Pin=D69-2
+Add Net: Net with name "LED1" already exists
+Added Pin To Net: NetName=NetD56_1 Pin=R139-1
+Added Pin To Net: NetName=NetD56_1 Pin=D56-2
+Added Net: Name=NetD56_1
+Added Pin To Net: NetName=NetD57_1 Pin=R136-1
+Added Pin To Net: NetName=NetD57_1 Pin=D57-2
+Added Net: Name=NetD57_1
+Added Pin To Net: NetName=NetD59_2 Pin=R151-1
+Added Pin To Net: NetName=NetD59_2 Pin=D59-1
+Added Net: Name=NetD59_2
+Added Pin To Net: NetName=NetD66_1 Pin=R164-1
+Added Pin To Net: NetName=NetD66_1 Pin=D66-2
+Added Net: Name=NetD66_1
+Added Pin To Net: NetName=NetD67_1 Pin=R161-1
+Added Pin To Net: NetName=NetD67_1 Pin=D67-2
+Added Net: Name=NetD67_1
+Added Pin To Net: NetName=NetD68_2 Pin=R173-1
+Added Pin To Net: NetName=NetD68_2 Pin=D68-1
+Added Net: Name=NetD68_2
+Added Pin To Net: NetName=NetD69_2 Pin=R176-1
+Added Pin To Net: NetName=NetD69_2 Pin=D69-1
+Added Net: Name=NetD69_2
