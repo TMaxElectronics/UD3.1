@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : F:\OneDrive\Altium\Projects\UD3.1\UD3.1.PcbDoc
-Date     : 05/05/2023
-Time     : 16:38:18
+Date     : 07/05/2023
+Time     : 02:55:08
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -25,8 +25,7 @@ Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=10mm) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Pad Free-0(141.911mm,43.125mm) on Multi-Layer And Pad Free-0(141.911mm,43.125mm) on Multi-Layer Pad/Via Touching Holes
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
 Rule Violations :0
@@ -41,22 +40,13 @@ Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "C78" (111.239mm,40.615mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "D34" (102.629mm,40.865mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "D35" (106.439mm,40.865mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "J11" (146.609mm,71.523mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "J12" (146.609mm,65.935mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "J13" (70.605mm,113.937mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "J18" (45.416mm,71.243mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "J19" (45.416mm,76.323mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "J20" (45.416mm,81.784mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.022mm < 0.254mm) Between Board Edge And Text "J21" (95.809mm,113.525mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.022mm < 0.254mm) Between Board Edge And Text "J22" (90.729mm,113.525mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.022mm < 0.254mm) Between Board Edge And Text "J23" (107.429mm,113.525mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.022mm < 0.254mm) Between Board Edge And Text "J24" (102.349mm,113.525mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "J27" (145.72mm,94.51mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "J28" (45.416mm,86.864mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "R145" (142.583mm,76.848mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.19mm < 0.254mm) Between Board Edge And Text "+24V" (103.869mm,112.923mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.19mm < 0.254mm) Between Board Edge And Text "+24V" (108.949mm,112.923mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.19mm < 0.254mm) Between Board Edge And Text "+24V" (117.776mm,112.923mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.091mm < 0.254mm) Between Board Edge And Text "+24V" (131.047mm,112.923mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.19mm < 0.254mm) Between Board Edge And Text "+24V" (92.249mm,112.923mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.19mm < 0.254mm) Between Board Edge And Text "+24V" (97.329mm,112.923mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.236mm < 0.254mm) Between Board Edge And Text "Rly4" (106.506mm,112.923mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.076mm < 0.254mm) Between Board Edge And Track (138.498mm,60.969mm)(145.708mm,60.969mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.076mm < 0.254mm) Between Board Edge And Track (138.498mm,66.049mm)(145.708mm,66.049mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.076mm < 0.254mm) Between Board Edge And Track (138.498mm,66.557mm)(145.708mm,66.557mm) on Top Overlay 
@@ -66,12 +56,12 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (0.076mm < 0.254mm) Between Board Edge And Track (145.708mm,60.969mm)(145.708mm,66.049mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.076mm < 0.254mm) Between Board Edge And Track (145.708mm,66.557mm)(145.708mm,71.637mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (145.835mm,95.386mm)(145.835mm,105.546mm) on Top Overlay 
-Rule Violations :25
+Rule Violations :16
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 26
+Violations Detected : 16
 Waived Violations : 0
 Time Elapsed        : 00:00:02

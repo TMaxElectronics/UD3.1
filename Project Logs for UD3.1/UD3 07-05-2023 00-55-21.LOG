@@ -1,0 +1,6 @@
+Change Component Comment: Designator=J28 Old Comment=LED 1 New Comment=INT
+Change Component Comment: Designator=J20 Old Comment=LED 2 New Comment=FLT
+Change Component Comment: Designator=J19 Old Comment=LED 3 New Comment=OCD
+Change Component Comment: Designator=J18 Old Comment=LED 4 New Comment=COM
+Change Component Comment: Designator=J8 Old Comment=PRG New Comment=Programmer
+Change Component Designator: OldDesignator=P1 NewDesignator=J?
