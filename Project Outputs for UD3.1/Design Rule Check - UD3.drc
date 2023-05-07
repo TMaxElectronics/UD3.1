@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : F:\OneDrive\Altium\Projects\UD3.1\UD3.1.PcbDoc
 Date     : 07/05/2023
-Time     : 02:55:08
+Time     : 03:01:53
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -51,11 +51,11 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (0.076mm < 0.254mm) Between Board Edge And Track (138.498mm,66.049mm)(145.708mm,66.049mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.076mm < 0.254mm) Between Board Edge And Track (138.498mm,66.557mm)(145.708mm,66.557mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.076mm < 0.254mm) Between Board Edge And Track (138.498mm,71.637mm)(145.708mm,71.637mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (138.625mm,105.546mm)(145.835mm,105.546mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (138.625mm,95.386mm)(145.835mm,95.386mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.064mm < 0.254mm) Between Board Edge And Track (138.51mm,105.562mm)(145.72mm,105.562mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.064mm < 0.254mm) Between Board Edge And Track (138.51mm,95.402mm)(145.72mm,95.402mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.076mm < 0.254mm) Between Board Edge And Track (145.708mm,60.969mm)(145.708mm,66.049mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.076mm < 0.254mm) Between Board Edge And Track (145.708mm,66.557mm)(145.708mm,71.637mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (145.835mm,95.386mm)(145.835mm,105.546mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.064mm < 0.254mm) Between Board Edge And Track (145.72mm,95.402mm)(145.72mm,105.562mm) on Top Overlay 
 Rule Violations :16
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)

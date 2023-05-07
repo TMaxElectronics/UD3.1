@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [UD3.1.PcbDoc]
+   Generated File[UD3.1.TXT]
+   Generated File[UD3.1.LDP]
+   Generated File[UD3.1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 03:09:13 On 07/05/2023
