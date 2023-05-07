@@ -33,3 +33,4 @@ Based on freeRTOS and written in C. Source code can be found [here](https://gith
 - Added buck regulator for VDrive, adjustable between 10V-24V
 - Added more indicator LEDs for debug purposes
 - Added supply voltages to more expansion headers, external gate header can now directly support 24V gate driver modules
+- The Design can now be almost entirely built with the JLC assmebly service. Only the psoc needs to be hand soldered.
