@@ -1,0 +1,184 @@
+Change Component Footprint: Designator=C31 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C32 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C101 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C105 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C111 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C114 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C117 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C121 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C126 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C129 Old Footprint=0805 New Footprint=0603
+Change Component Comment : Designator=R97 Old Comment=1k New Comment=1k 0.5W
+Change Component Comment : Designator=R107 Old Comment=1k New Comment=1k 0.5W
+Change Component Comment : Designator=R115 Old Comment=1k New Comment=1k 0.5W
+Change Component Comment : Designator=R121 Old Comment=1k New Comment=1k 0.5W
+Change Component Comment : Designator=C107 Old Comment=1uF New Comment=1uF 50V
+Change Component Comment : Designator=C123 Old Comment=1uF New Comment=1uF 50V
+Change Component Comment : Designator=D36 Old Comment=5.2V New Comment=Zener 5.2V
+Change Component Comment : Designator=R101 Old Comment=10k New Comment=8.2k
+Change Component Comment : Designator=R102 Old Comment=10k New Comment=8.2k
+Change Component Comment : Designator=R103 Old Comment=10k New Comment=8.2k
+Change Component Comment : Designator=R104 Old Comment=10k New Comment=8.2k
+Change Component Comment : Designator=R105 Old Comment=10k New Comment=8.2k
+Change Component Comment : Designator=R131 Old Comment=10k New Comment=8.2k
+Change Component Comment : Designator=R132 Old Comment=10k New Comment=8.2k
+Change Component Comment : Designator=R156 Old Comment=10k New Comment=8.2k
+Change Component Comment : Designator=R157 Old Comment=10k New Comment=8.2k
+Change Component Comment : Designator=C16 Old Comment=18p New Comment=18pF
+Change Component Comment : Designator=C18 Old Comment=18p New Comment=18pF
+Change Component Comment : Designator=R116 Old Comment=22 New Comment=22 0.5W
+Change Component Comment : Designator=R117 Old Comment=22 New Comment=22 0.5W
+Change Component Comment : Designator=R129 Old Comment=22 New Comment=22 0.5W
+Change Component Comment : Designator=R130 Old Comment=22 New Comment=22 0.5W
+Change Component Comment : Designator=R11 Old Comment=46.6k New Comment=47k
+Change Component Comment : Designator=R100 Old Comment=100 New Comment=1k
+Change Component Comment : Designator=R109 Old Comment=100 New Comment=1k
+Change Component Comment : Designator=R119 Old Comment=100 New Comment=1k
+Change Component Comment : Designator=R127 Old Comment=100 New Comment=1k
+Change Component Comment : Designator=R106 Old Comment=100 New Comment=8.2k
+Change Component Comment : Designator=R110 Old Comment=100 New Comment=8.2k
+Change Component Comment : Designator=R120 Old Comment=100 New Comment=8.2k
+Change Component Comment : Designator=R128 Old Comment=100 New Comment=8.2k
+Change Component Comment : Designator=C31 Old Comment=100nF New Comment=100nF 
+Change Component Comment : Designator=C22 Old Comment=100p New Comment=100pF
+Change Component Comment : Designator=D37 Old Comment=Diode New Comment=Schottky 30V 1A
+Change Component Comment : Designator=D56 Old Comment=Diode New Comment=Schottky 30V 100mA
+Change Component Comment : Designator=D57 Old Comment=Diode New Comment=Schottky 30V 100mA
+Change Component Comment : Designator=D58 Old Comment=Diode New Comment=Schottky 30V 100mA
+Change Component Comment : Designator=D59 Old Comment=Diode New Comment=Schottky 30V 100mA
+Change Component Comment : Designator=D66 Old Comment=Diode New Comment=Schottky 30V 100mA
+Change Component Comment : Designator=D67 Old Comment=Diode New Comment=Schottky 30V 100mA
+Change Component Comment : Designator=D68 Old Comment=Diode New Comment=Schottky 30V 100mA
+Change Component Comment : Designator=D69 Old Comment=Diode New Comment=Schottky 30V 100mA
+Change Component Comment : Designator=D32 Old Comment=Fast Recovery New Comment=Schottky 30V 1A
+Change Component Comment : Designator=D33 Old Comment=Fast Recovery New Comment=Schottky 30V 1A
+Change Component Comment : Designator=D34 Old Comment=Fast Recovery New Comment=Schottky 30V 1A
+Change Component Comment : Designator=D35 Old Comment=Fast Recovery New Comment=Schottky 30V 1A
+Change Component Comment : Designator=D43 Old Comment=LED New Comment=blue
+Change Component Comment : Designator=D44 Old Comment=LED New Comment=blue
+Change Component Comment : Designator=D45 Old Comment=LED New Comment=blue
+Change Component Comment : Designator=D46 Old Comment=LED New Comment=blue
+Change Component Comment : Designator=D47 Old Comment=LED New Comment=blue
+Change Component Comment : Designator=D48 Old Comment=LED New Comment=blue
+Change Component Comment : Designator=D49 Old Comment=LED New Comment=blue
+Change Component Comment : Designator=D50 Old Comment=LED New Comment=blue
+Change Component Comment : Designator=D51 Old Comment=LED New Comment=blue
+Change Component Comment : Designator=D52 Old Comment=LED New Comment=blue
+Change Component Comment : Designator=D53 Old Comment=LED New Comment=blue
+Change Component Comment : Designator=D62 Old Comment=LED New Comment=blue
+Change Component Comment : Designator=D63 Old Comment=LED New Comment=blue
+Change Component Comment : Designator=D1 Old Comment=LED New Comment=green
+Change Component Comment : Designator=D2 Old Comment=LED New Comment=green
+Change Component Comment : Designator=D3 Old Comment=LED New Comment=green
+Change Component Comment : Designator=D4 Old Comment=LED New Comment=green
+Change Component Comment : Designator=D5 Old Comment=LED New Comment=green
+Change Component Comment : Designator=Q6 Old Comment=MOSFET New Comment=Power NFet
+Change Component Comment : Designator=D38 Old Comment=Standard New Comment=Schottky 30V 1A
+Change Component Comment : Designator=D39 Old Comment=Standard New Comment=Schottky 30V 100mA
+Change Component Comment : Designator=D40 Old Comment=Standard New Comment=Schottky 30V 100mA
+Change Component Comment : Designator=D41 Old Comment=Standard New Comment=Schottky 30V 100mA
+Change Component Comment : Designator=D42 Old Comment=Standard New Comment=Schottky 30V 100mA
+Added Component: Designator=C29(0603)
+Added Component: Designator=C30(0603)
+Added Component: Designator=C106(0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 6"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 7"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 8"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 9"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 10"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 11"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 12"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 13"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 14"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 15"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 16"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 17"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 18"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 19"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 20"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 21"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 22"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-2044-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "1276-1018-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "1276-1182-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "1276-1009-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = "1276-1098-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 6"; Value = "1276-1119-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 7"; Value = "490-12737-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 8"; Value = "1276-1183-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 9"; Value = "587-1249-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 10"; Value = "1276-CL10B104KB8NNNLCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 11"; Value = "399-1085-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 12"; Value = "1276-1021-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 13"; Value = "587-2985-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 14"; Value = "490-14603-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 15"; Value = "311-3700-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 16"; Value = "311-1042-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 17"; Value = "311-1415-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 18"; Value = "1276-1907-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 19"; Value = "587-4321-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 20"; Value = "1276-6767-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 21"; Value = "1276-7060-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 22"; Value = "311-1084-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C122(0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 6"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 7"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 8"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 9"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 10"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 11"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 12"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 13"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 14"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 15"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 16"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 17"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 18"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 19"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 20"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 21"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 22"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-2044-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "1276-1018-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "1276-1182-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "1276-1009-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = "1276-1098-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 6"; Value = "1276-1119-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 7"; Value = "490-12737-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 8"; Value = "1276-1183-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 9"; Value = "587-1249-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 10"; Value = "1276-CL10B104KB8NNNLCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 11"; Value = "399-1085-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 12"; Value = "1276-1021-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 13"; Value = "587-2985-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 14"; Value = "490-14603-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 15"; Value = "311-3700-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 16"; Value = "311-1042-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 17"; Value = "311-1415-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 18"; Value = "1276-1907-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 19"; Value = "587-4321-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 20"; Value = "1276-6767-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 21"; Value = "1276-7060-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 22"; Value = "311-1084-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=+VDrive Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=+VDrive Pin=C30-2
+Added Pin To Net: NetName=NetC101_1 Pin=C106-1
+Added Pin To Net: NetName=GND Pin=C106-2
+Added Pin To Net: NetName=NetC117_1 Pin=C122-1
+Added Pin To Net: NetName=GND Pin=C122-2
+Added Member To Class: ClassName=Power Supply Member=Component C29 100nF
+Added Member To Class: ClassName=Power Supply Member=Component C30 100nF
+Added Member To Class: ClassName=GDT Driver powerstage Member=Component C106 100nF
+Added Member To Class: ClassName=GDT Driver powerstage Member=Component C122 100nF
