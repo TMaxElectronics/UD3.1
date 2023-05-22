@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Gerber Export.OutJob
+Name=
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -150,7 +150,7 @@ OutputPathMedia3=Gerber
 OutputPathMediaValue3=Gerber
 OutputPathOutputer3=[Output Custom]
 OutputPathOutputerPrefix3=
-OutputPathOutputerValue3=UD3.1a
+OutputPathOutputerValue3=UD3.1b
 OutputFileName3=
 OutputFileNameMulti3=
 UseOutputNameForMulti3=1
