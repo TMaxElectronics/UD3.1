@@ -49,23 +49,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Gate.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CTIKWOJS
-
-[Document2]
 DocumentPath=UD3.1 PSOC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +65,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BIEBGWNX
 
-[Document3]
+[Document2]
 DocumentPath=UD3.1 Supplies.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
@@ -99,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMJBLBRO
 
-[Document4]
+[Document3]
 DocumentPath=UD3.1 Bootstrap Gate Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=200
@@ -116,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DURPQRPU
 
-[Document5]
+[Document4]
 DocumentPath=UD3.1 Analog IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=300
@@ -133,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUIAZDYK
 
-[Document6]
+[Document5]
 DocumentPath=UD3.1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=400
@@ -150,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LIGIJNUL
 
-[Document7]
+[Document6]
 DocumentPath=UD3.1 Digital IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=500
@@ -167,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ROTSTXZK
 
-[Document8]
+[Document7]
 DocumentPath=..\..\Libraries\stdCon.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YRDUWSMH
 
-[Document9]
+[Document8]
 DocumentPath=..\..\Libraries\stdCon.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBKNCGPF
 
-[Document10]
+[Document9]
 DocumentPath=..\..\Libraries\stdLED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=..\..\Libraries\stdLED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RGWNVGFJ
 
-[Document12]
+[Document11]
 DocumentPath=..\..\Libraries\stdLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LOBOCPPI
 
-[Document13]
+[Document12]
 DocumentPath=..\..\Libraries\stdLib.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTEERBKT
 
-[Document14]
+[Document13]
 DocumentPath=..\..\Libraries\Transformers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=..\..\Libraries\Transformers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AOXVPULI
 
-[Document16]
+[Document15]
 DocumentPath=PDF Export.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=UD3.1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSMGKRXB
 
-[Document18]
+[Document17]
 DocumentPath=UD3.1 N+P Gate Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MKSUPKQS
 
-[Document19]
+[Document18]
 DocumentPath=Gerber Export.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -371,7 +354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document19]
 DocumentPath=UD3.1.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,154 +372,78 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=.\Gerber\UD3.1a\Bill of Materials-UD3.1.csv
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for UD3.1\Design Rule Check - UD3.html
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=.\Gerber\UD3.1a\Pick Place for UD3.1.csv
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
+[GeneratedDocument2]
 DocumentPath=Gerber\UD3.1a\UD3.1.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
+[GeneratedDocument3]
 DocumentPath=Gerber\UD3.1a\UD3.1.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument8]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
+[GeneratedDocument4]
 DocumentPath=Gerber\UD3.1a\UD3.1.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument5]
 DocumentPath=Gerber\UD3.1a\UD3.1.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
+[GeneratedDocument6]
 DocumentPath=Gerber\UD3.1a\UD3.1.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument15]
+[GeneratedDocument7]
 DocumentPath=Gerber\UD3.1a\UD3.1.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument16]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument8]
 DocumentPath=Gerber\UD3.1a\UD3.1.GM8
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument19]
+[GeneratedDocument9]
 DocumentPath=Gerber\UD3.1a\UD3.1.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument21]
+[GeneratedDocument10]
 DocumentPath=Gerber\UD3.1a\UD3.1.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument22]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
+[GeneratedDocument11]
 DocumentPath=Gerber\UD3.1a\UD3.1.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument12]
 DocumentPath=Gerber\UD3.1a\UD3.1.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument26]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
+[GeneratedDocument13]
 DocumentPath=Gerber\UD3.1a\UD3.1.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument28]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument29]
+[GeneratedDocument14]
 DocumentPath=Gerber\UD3.1a\UD3.1.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument30]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.html
+[GeneratedDocument15]
+DocumentPath=Gerber\UD3.1a\UD3.1.html
 DItemRevisionGUID=
 
-[GeneratedDocument31]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument32]
+[GeneratedDocument16]
 DocumentPath=Gerber\UD3.1a\UD3.1.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument33]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument34]
+[GeneratedDocument17]
 DocumentPath=Gerber\UD3.1a\UD3.1.REP
 DItemRevisionGUID=
 
-[GeneratedDocument35]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument36]
+[GeneratedDocument18]
 DocumentPath=Gerber\UD3.1a\UD3.1.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument37]
-DocumentPath=.\Gerber\UD3.1a\UD3.1.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument38]
+[GeneratedDocument19]
 DocumentPath=Gerber\UD3.1a\UD3.1.TXT
 DItemRevisionGUID=
 
@@ -560,7 +467,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Lexmark International Lexmark E260
+TargetPrinter=Lexmark M1100 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -666,7 +573,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Lexmark International Lexmark E260
+TargetPrinter=Lexmark M1100 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -768,17 +675,11 @@ OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=PDF3D MBA
-OutputName13=PDF3D MBA
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Lexmark International Lexmark E260
+TargetPrinter=Lexmark M1100 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -800,7 +701,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Lexmark International Lexmark E260
+TargetPrinter=Lexmark M1100 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -894,7 +795,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Lexmark International Lexmark E260
+TargetPrinter=Lexmark M1100 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Script
 OutputName1=Script Output
@@ -957,7 +858,7 @@ PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Lexmark International Lexmark E260
+TargetPrinter=Lexmark M1100 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1065,7 +966,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Lexmark International Lexmark E260
+TargetPrinter=Lexmark M1100 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -1109,7 +1010,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Lexmark International Lexmark E260
+TargetPrinter=Lexmark M1100 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=ExportIDF
 OutputName1=Export IDF
@@ -1156,26 +1057,16 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=MBAExportPARASOLID
-OutputName10=Export PARASOLID
+OutputType10=Web ReviewOutputName
+OutputName10=Web Review Data
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=MBAExportSTEP
-OutputName11=Export STEP
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=Web ReviewOutputName
-OutputName12=Web Review Data
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Lexmark International Lexmark E260
+TargetPrinter=Lexmark M1100 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1219,7 +1110,7 @@ Type32=1
 Type33=1
 Type34=1
 Type35=1
-Type36=1
+Type36=0
 Type37=1
 Type38=1
 Type39=1
@@ -1548,233 +1439,215 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Celestial Library Database.DbLib/Connector - Rectangular
-ComponentDesignItemID0=0022272021
-ComponentSymbolReference0=2 Pin
+ComponentLibraryIdentifier0=Miscellaneous Connectors.IntLib
+ComponentDesignItemID0=Header 10
+ComponentSymbolReference0=Header 10
 ComponentUpdate0=0
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Celestial Library Database.DbLib/Diode - Rectifier
-ComponentDesignItemID1=S5AC-13-F
-ComponentSymbolReference1=Diode
+ComponentLibraryIdentifier1=Miscellaneous Connectors.IntLib
+ComponentDesignItemID1=Header 2
+ComponentSymbolReference1=Header 2
 ComponentUpdate1=0
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=Celestial Library Database.DbLib/Resistor - Chip
-ComponentDesignItemID2=ERJ-8GEYJ1R8V
-ComponentSymbolReference2=Resistor
+ComponentLibraryIdentifier2=Miscellaneous Connectors.IntLib
+ComponentDesignItemID2=Header 4X2
+ComponentSymbolReference2=Header 4X2
 ComponentUpdate2=0
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=Miscellaneous Connectors.IntLib
-ComponentDesignItemID3=Header 10
-ComponentSymbolReference3=Header 10
+ComponentDesignItemID3=Header 5
+ComponentSymbolReference3=Header 5
 ComponentUpdate3=0
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=Miscellaneous Connectors.IntLib
-ComponentDesignItemID4=Header 2
-ComponentSymbolReference4=Header 2
+ComponentDesignItemID4=Header 9
+ComponentSymbolReference4=Header 9
 ComponentUpdate4=0
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=Miscellaneous Connectors.IntLib
-ComponentDesignItemID5=Header 4X2
-ComponentSymbolReference5=Header 4X2
+ComponentLibraryIdentifier5=stdCon.SchLib
+ComponentDesignItemID5=1 Header
+ComponentSymbolReference5=1 Header
 ComponentUpdate5=0
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=Miscellaneous Connectors.IntLib
-ComponentDesignItemID6=Header 5
-ComponentSymbolReference6=Header 5
+ComponentLibraryIdentifier6=stdCon.SchLib
+ComponentDesignItemID6=2 header
+ComponentSymbolReference6=2 header
 ComponentUpdate6=0
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=Miscellaneous Connectors.IntLib
-ComponentDesignItemID7=Header 9
-ComponentSymbolReference7=Header 9
+ComponentLibraryIdentifier7=stdCon.SchLib
+ComponentDesignItemID7=2 screw terminal
+ComponentSymbolReference7=2 screw terminal
 ComponentUpdate7=0
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=stdCon.SchLib
-ComponentDesignItemID8=2 header
-ComponentSymbolReference8=2 header
+ComponentDesignItemID8=4 header
+ComponentSymbolReference8=4 header
 ComponentUpdate8=0
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=stdCon.SchLib
-ComponentDesignItemID9=2 screw terminal
-ComponentSymbolReference9=2 screw terminal
+ComponentDesignItemID9=6 header
+ComponentSymbolReference9=6 header
 ComponentUpdate9=0
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=stdCon.SchLib
-ComponentDesignItemID10=4 header
-ComponentSymbolReference10=4 header
+ComponentDesignItemID10=USB 2.0 Type B
+ComponentSymbolReference10=USB 2.0 Type B
 ComponentUpdate10=0
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=stdCon.SchLib
-ComponentDesignItemID11=6 header
-ComponentSymbolReference11=6 header
+ComponentLibraryIdentifier11=stdLib.SCHLIB
+ComponentDesignItemID11=AD5160
+ComponentSymbolReference11=AD5160
 ComponentUpdate11=0
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=stdCon.SchLib
-ComponentDesignItemID12=USB 2.0 Type B
-ComponentSymbolReference12=USB 2.0 Type B
+ComponentLibraryIdentifier12=stdLib.SCHLIB
+ComponentDesignItemID12=AOZ1284
+ComponentSymbolReference12=AOZ1284
 ComponentUpdate12=0
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=stdLib.SCHLIB
-ComponentDesignItemID13=AD5160
-ComponentSymbolReference13=AD5160
+ComponentDesignItemID13=Cap Polar
+ComponentSymbolReference13=Cap Polar
 ComponentUpdate13=0
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=stdLib.SCHLIB
-ComponentDesignItemID14=AOZ1284
-ComponentSymbolReference14=AOZ1284
+ComponentDesignItemID14=Cap
+ComponentSymbolReference14=Cap
 ComponentUpdate14=0
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=stdLib.SCHLIB
-ComponentDesignItemID15=Cap Polar
-ComponentSymbolReference15=Cap Polar
+ComponentDesignItemID15=Common mode filter
+ComponentSymbolReference15=Common mode filter
 ComponentUpdate15=0
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=stdLib.SCHLIB
-ComponentDesignItemID16=Cap
-ComponentSymbolReference16=Cap
+ComponentDesignItemID16=Diode Schottky
+ComponentSymbolReference16=Diode Schottky
 ComponentUpdate16=0
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
 ComponentLibraryIdentifier17=stdLib.SCHLIB
-ComponentDesignItemID17=Common mode filter
-ComponentSymbolReference17=Common mode filter
+ComponentDesignItemID17=Diode Zener
+ComponentSymbolReference17=Diode Zener
 ComponentUpdate17=0
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
 ComponentLibraryIdentifier18=stdLib.SCHLIB
-ComponentDesignItemID18=Diode Schottky
-ComponentSymbolReference18=Diode Schottky
+ComponentDesignItemID18=Diode
+ComponentSymbolReference18=Diode
 ComponentUpdate18=0
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
 ComponentLibraryIdentifier19=stdLib.SCHLIB
-ComponentDesignItemID19=Diode
-ComponentSymbolReference19=Diode
+ComponentDesignItemID19=Gatedriver Bootstrap
+ComponentSymbolReference19=Gatedriver Bootstrap
 ComponentUpdate19=0
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
 ComponentLibraryIdentifier20=stdLib.SCHLIB
-ComponentDesignItemID20=Gatedriver Bootstrap
-ComponentSymbolReference20=Gatedriver Bootstrap
+ComponentDesignItemID20=Inductor High Power
+ComponentSymbolReference20=Inductor High Power
 ComponentUpdate20=0
 ComponentIsDeviceSheet20=0
 ComponentLibIdentifierKind21=Library Name And Type
 ComponentLibraryIdentifier21=stdLib.SCHLIB
-ComponentDesignItemID21=Inductor High Power
-ComponentSymbolReference21=Inductor High Power
+ComponentDesignItemID21=Jumper
+ComponentSymbolReference21=Jumper
 ComponentUpdate21=0
 ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
 ComponentLibraryIdentifier22=stdLib.SCHLIB
-ComponentDesignItemID22=Jumper
-ComponentSymbolReference22=Jumper
+ComponentDesignItemID22=LED
+ComponentSymbolReference22=LED
 ComponentUpdate22=0
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
 ComponentLibraryIdentifier23=stdLib.SCHLIB
-ComponentDesignItemID23=LED
-ComponentSymbolReference23=LED
+ComponentDesignItemID23=lm78xx
+ComponentSymbolReference23=lm78xx
 ComponentUpdate23=0
 ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
 ComponentLibraryIdentifier24=stdLib.SCHLIB
-ComponentDesignItemID24=lm78xx
-ComponentSymbolReference24=lm78xx
-ComponentUpdate24=0
+ComponentDesignItemID24=Mosfet 1N1P
+ComponentSymbolReference24=Mosfet 1N1P
+ComponentUpdate24=1
 ComponentIsDeviceSheet24=0
 ComponentLibIdentifierKind25=Library Name And Type
 ComponentLibraryIdentifier25=stdLib.SCHLIB
-ComponentDesignItemID25=Mosfet 1N1P
-ComponentSymbolReference25=Mosfet 1N1P
+ComponentDesignItemID25=Mosfet 2N
+ComponentSymbolReference25=Mosfet 2N
 ComponentUpdate25=0
 ComponentIsDeviceSheet25=0
 ComponentLibIdentifierKind26=Library Name And Type
 ComponentLibraryIdentifier26=stdLib.SCHLIB
-ComponentDesignItemID26=Mosfet 2N
-ComponentSymbolReference26=Mosfet 2N
+ComponentDesignItemID26=Mosfet N
+ComponentSymbolReference26=Mosfet N
 ComponentUpdate26=0
 ComponentIsDeviceSheet26=0
 ComponentLibIdentifierKind27=Library Name And Type
 ComponentLibraryIdentifier27=stdLib.SCHLIB
-ComponentDesignItemID27=Mosfet N
-ComponentSymbolReference27=Mosfet N
+ComponentDesignItemID27=OpAmp dual
+ComponentSymbolReference27=OpAmp dual
 ComponentUpdate27=0
 ComponentIsDeviceSheet27=0
 ComponentLibIdentifierKind28=Library Name And Type
 ComponentLibraryIdentifier28=stdLib.SCHLIB
-ComponentDesignItemID28=OpAmp dual
-ComponentSymbolReference28=OpAmp dual
+ComponentDesignItemID28=Quarz crystal
+ComponentSymbolReference28=Quarz crystal
 ComponentUpdate28=0
 ComponentIsDeviceSheet28=0
 ComponentLibIdentifierKind29=Library Name And Type
 ComponentLibraryIdentifier29=stdLib.SCHLIB
-ComponentDesignItemID29=Quarz crystal
-ComponentSymbolReference29=Quarz crystal
+ComponentDesignItemID29=Resistor
+ComponentSymbolReference29=Resistor
 ComponentUpdate29=0
 ComponentIsDeviceSheet29=0
 ComponentLibIdentifierKind30=Library Name And Type
 ComponentLibraryIdentifier30=stdLib.SCHLIB
-ComponentDesignItemID30=Resistor
-ComponentSymbolReference30=Resistor
+ComponentDesignItemID30=Trimmer
+ComponentSymbolReference30=Trimmer
 ComponentUpdate30=0
 ComponentIsDeviceSheet30=0
 ComponentLibIdentifierKind31=Library Name And Type
 ComponentLibraryIdentifier31=stdLib.SCHLIB
-ComponentDesignItemID31=Test Point
-ComponentSymbolReference31=Test Point
+ComponentDesignItemID31=TVS Diode
+ComponentSymbolReference31=TVS Diode
 ComponentUpdate31=0
 ComponentIsDeviceSheet31=0
 ComponentLibIdentifierKind32=Library Name And Type
 ComponentLibraryIdentifier32=stdLib.SCHLIB
-ComponentDesignItemID32=Trimmer
-ComponentSymbolReference32=Trimmer
+ComponentDesignItemID32=UCC2742X
+ComponentSymbolReference32=UCC2742X
 ComponentUpdate32=0
 ComponentIsDeviceSheet32=0
 ComponentLibIdentifierKind33=Library Name And Type
-ComponentLibraryIdentifier33=stdLib.SCHLIB
-ComponentDesignItemID33=TVS Diode
-ComponentSymbolReference33=TVS Diode
-ComponentUpdate33=1
+ComponentLibraryIdentifier33=steve lib.SchLib
+ComponentDesignItemID33=CY8C5466AXI-064
+ComponentSymbolReference33=CY8C5466AXI-064
+ComponentUpdate33=0
 ComponentIsDeviceSheet33=0
 ComponentLibIdentifierKind34=Library Name And Type
-ComponentLibraryIdentifier34=stdLib.SCHLIB
-ComponentDesignItemID34=UCC2742X
-ComponentSymbolReference34=UCC2742X
+ComponentLibraryIdentifier34=steve lib.SchLib
+ComponentDesignItemID34=TC7660S
+ComponentSymbolReference34=TC7660S
 ComponentUpdate34=0
 ComponentIsDeviceSheet34=0
-ComponentLibIdentifierKind35=Library Name And Type
-ComponentLibraryIdentifier35=steve lib.SchLib
-ComponentDesignItemID35=CY8C5466AXI-064
-ComponentSymbolReference35=CY8C5466AXI-064
-ComponentUpdate35=0
-ComponentIsDeviceSheet35=0
-ComponentLibIdentifierKind36=Library Name And Type
-ComponentLibraryIdentifier36=steve lib.SchLib
-ComponentDesignItemID36=TC7660S
-ComponentSymbolReference36=TC7660S
-ComponentUpdate36=0
-ComponentIsDeviceSheet36=0
-ComponentLibIdentifierKind37=Library Name And Type
-ComponentLibraryIdentifier37=UD2 CPLD.SCHLIB
-ComponentDesignItemID37=Testpoint
-ComponentSymbolReference37=Testpoint
-ComponentUpdate37=0
-ComponentIsDeviceSheet37=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1788,166 +1661,108 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Colour
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Comment
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Component Kind
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=ComponentLink1Description
+ParameterName3=LatestRevisionDate
 ParameterUpdate3=1
-ParameterName4=ComponentLink1URL
+ParameterName4=LatestRevisionNote
 ParameterUpdate4=1
-ParameterName5=ComponentLink2Description
+ParameterName5=Library Reference
 ParameterUpdate5=1
-ParameterName6=ComponentLink2URL
+ParameterName6=Publisher
 ParameterUpdate6=1
-ParameterName7=Contact Finish
+ParameterName7=Supplier 1
 ParameterUpdate7=1
-ParameterName8=Current Rectified
+ParameterName8=Supplier 10
 ParameterUpdate8=1
-ParameterName9=Current Reverse Leakage @ Vr
+ParameterName9=Supplier 11
 ParameterUpdate9=1
-ParameterName10=Description
+ParameterName10=Supplier 12
 ParameterUpdate10=1
-ParameterName11=Device Package
+ParameterName11=Supplier 13
 ParameterUpdate11=1
-ParameterName12=Digikey Part
+ParameterName12=Supplier 14
 ParameterUpdate12=1
-ParameterName13=Fastening Type
+ParameterName13=Supplier 15
 ParameterUpdate13=1
-ParameterName14=Junction Operating Temperature
+ParameterName14=Supplier 16
 ParameterUpdate14=1
-ParameterName15=LatestRevisionDate
+ParameterName15=Supplier 17
 ParameterUpdate15=1
-ParameterName16=LatestRevisionNote
+ParameterName16=Supplier 18
 ParameterUpdate16=1
-ParameterName17=Library Reference
+ParameterName17=Supplier 19
 ParameterUpdate17=1
-ParameterName18=Manufacturer
+ParameterName18=Supplier 2
 ParameterUpdate18=1
-ParameterName19=Mouser Part
+ParameterName19=Supplier 20
 ParameterUpdate19=1
-ParameterName20=Number Of Positions
+ParameterName20=Supplier 21
 ParameterUpdate20=1
-ParameterName21=Number Of Rows
+ParameterName21=Supplier 22
 ParameterUpdate21=1
-ParameterName22=Part Number
+ParameterName22=Supplier 3
 ParameterUpdate22=1
-ParameterName23=PartId
+ParameterName23=Supplier 4
 ParameterUpdate23=1
-ParameterName24=Pitch
+ParameterName24=Supplier 5
 ParameterUpdate24=1
-ParameterName25=PowerRating
+ParameterName25=Supplier 6
 ParameterUpdate25=1
-ParameterName26=Price
+ParameterName26=Supplier 7
 ParameterUpdate26=1
-ParameterName27=Publisher
+ParameterName27=Supplier 8
 ParameterUpdate27=1
-ParameterName28=Series
+ParameterName28=Supplier 9
 ParameterUpdate28=1
-ParameterName29=Supplier 1
+ParameterName29=Supplier Part Number 1
 ParameterUpdate29=1
-ParameterName30=Supplier 10
+ParameterName30=Supplier Part Number 10
 ParameterUpdate30=1
-ParameterName31=Supplier 11
+ParameterName31=Supplier Part Number 11
 ParameterUpdate31=1
-ParameterName32=Supplier 12
+ParameterName32=Supplier Part Number 12
 ParameterUpdate32=1
-ParameterName33=Supplier 13
+ParameterName33=Supplier Part Number 13
 ParameterUpdate33=1
-ParameterName34=Supplier 14
+ParameterName34=Supplier Part Number 14
 ParameterUpdate34=1
-ParameterName35=Supplier 15
+ParameterName35=Supplier Part Number 15
 ParameterUpdate35=1
-ParameterName36=Supplier 16
+ParameterName36=Supplier Part Number 16
 ParameterUpdate36=1
-ParameterName37=Supplier 17
+ParameterName37=Supplier Part Number 17
 ParameterUpdate37=1
-ParameterName38=Supplier 18
+ParameterName38=Supplier Part Number 18
 ParameterUpdate38=1
-ParameterName39=Supplier 19
+ParameterName39=Supplier Part Number 19
 ParameterUpdate39=1
-ParameterName40=Supplier 2
+ParameterName40=Supplier Part Number 2
 ParameterUpdate40=1
-ParameterName41=Supplier 20
+ParameterName41=Supplier Part Number 20
 ParameterUpdate41=1
-ParameterName42=Supplier 21
+ParameterName42=Supplier Part Number 21
 ParameterUpdate42=1
-ParameterName43=Supplier 22
+ParameterName43=Supplier Part Number 22
 ParameterUpdate43=1
-ParameterName44=Supplier 3
+ParameterName44=Supplier Part Number 3
 ParameterUpdate44=1
-ParameterName45=Supplier 4
+ParameterName45=Supplier Part Number 4
 ParameterUpdate45=1
-ParameterName46=Supplier 5
+ParameterName46=Supplier Part Number 5
 ParameterUpdate46=1
-ParameterName47=Supplier 6
+ParameterName47=Supplier Part Number 6
 ParameterUpdate47=1
-ParameterName48=Supplier 7
+ParameterName48=Supplier Part Number 7
 ParameterUpdate48=1
-ParameterName49=Supplier 8
+ParameterName49=Supplier Part Number 8
 ParameterUpdate49=1
-ParameterName50=Supplier 9
+ParameterName50=Supplier Part Number 9
 ParameterUpdate50=1
-ParameterName51=Supplier Part Number 1
-ParameterUpdate51=1
-ParameterName52=Supplier Part Number 10
-ParameterUpdate52=1
-ParameterName53=Supplier Part Number 11
-ParameterUpdate53=1
-ParameterName54=Supplier Part Number 12
-ParameterUpdate54=1
-ParameterName55=Supplier Part Number 13
-ParameterUpdate55=1
-ParameterName56=Supplier Part Number 14
-ParameterUpdate56=1
-ParameterName57=Supplier Part Number 15
-ParameterUpdate57=1
-ParameterName58=Supplier Part Number 16
-ParameterUpdate58=1
-ParameterName59=Supplier Part Number 17
-ParameterUpdate59=1
-ParameterName60=Supplier Part Number 18
-ParameterUpdate60=1
-ParameterName61=Supplier Part Number 19
-ParameterUpdate61=1
-ParameterName62=Supplier Part Number 2
-ParameterUpdate62=1
-ParameterName63=Supplier Part Number 20
-ParameterUpdate63=1
-ParameterName64=Supplier Part Number 21
-ParameterUpdate64=1
-ParameterName65=Supplier Part Number 22
-ParameterUpdate65=1
-ParameterName66=Supplier Part Number 3
-ParameterUpdate66=1
-ParameterName67=Supplier Part Number 4
-ParameterUpdate67=1
-ParameterName68=Supplier Part Number 5
-ParameterUpdate68=1
-ParameterName69=Supplier Part Number 6
-ParameterUpdate69=1
-ParameterName70=Supplier Part Number 7
-ParameterUpdate70=1
-ParameterName71=Supplier Part Number 8
-ParameterUpdate71=1
-ParameterName72=Supplier Part Number 9
-ParameterUpdate72=1
-ParameterName73=TemperatureCoefficient
-ParameterUpdate73=1
-ParameterName74=TemperatureRange
-ParameterUpdate74=1
-ParameterName75=Tolerance
-ParameterUpdate75=1
-ParameterName76=Type
-ParameterUpdate76=1
-ParameterName77=Value
-ParameterUpdate77=1
-ParameterName78=Voltage DC Reverse (Vr)
-ParameterUpdate78=1
-ParameterName79=Voltage Forward (Vf)
-ParameterUpdate79=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
@@ -1966,232 +1781,214 @@ ModelType4=PCBLIB
 ModelName4=0603 Polarized
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=0805
+ModelName5=0603 Polarized Through Board
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=1008
+ModelName6=0805
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=1206
+ModelName7=1 Pad M3
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=2 KK254 / KF2510
+ModelName8=1008
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=2 screw terminal
+ModelName9=1206
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=2 screw terminal vertical
+ModelName10=1206 Reverse Mount
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=2512
+ModelName11=1210
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=2917 Tantalum
+ModelName12=2 KK254 / KF2510
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=4 KK254 / KF2510
+ModelName13=2 screw terminal
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=4 KK254 / KF2510 90°
+ModelName14=2 screw terminal vertical
 ModelUpdate14=1
 ModelType15=PCBLIB
-ModelName15=6 KK254 / KF2510
+ModelName15=2512
 ModelUpdate15=1
 ModelType16=PCBLIB
-ModelName16=6 KK254 / KF2510 90°
+ModelName16=2917 Tantalum
 ModelUpdate16=1
 ModelType17=PCBLIB
-ModelName17=89P Trimmer
+ModelName17=4 KK254 / KF2510
 ModelUpdate17=1
 ModelType18=PCBLIB
-ModelName18=B32778G Film Cap
+ModelName18=4 KK254 / KF2510 90°
 ModelUpdate18=1
 ModelType19=PCBLIB
-ModelName19=ceramic cap 200mil
+ModelName19=6 KK254 / KF2510
 ModelUpdate19=1
 ModelType20=PCBLIB
-ModelName20=DLW5BTM501SQ2L
+ModelName20=6 KK254 / KF2510 90°
 ModelUpdate20=1
 ModelType21=PCBLIB
-ModelName21=DO-214
+ModelName21=89P Trimmer
 ModelUpdate21=1
 ModelType22=PCBLIB
-ModelName22=DO214AB SMC
+ModelName22=B32778G Film Cap
 ModelUpdate22=1
 ModelType23=PCBLIB
-ModelName23=ECS-3225MV Oscillator
+ModelName23=ceramic cap 200mil
 ModelUpdate23=1
 ModelType24=PCBLIB
-ModelName24=Elko 13 x 25 x 5
+ModelName24=DLW5BTM501SQ2L
 ModelUpdate24=1
 ModelType25=PCBLIB
-ModelName25=ELKO 35 x 50 x 10
+ModelName25=DO-214
 ModelUpdate25=1
 ModelType26=PCBLIB
-ModelName26=Elko 5 x 11 x 1,5
+ModelName26=ECS-3225MV Oscillator
 ModelUpdate26=1
 ModelType27=PCBLIB
-ModelName27=Elko 6,3 x 11 x 2,5
+ModelName27=Elko 13 x 25 x 5
 ModelUpdate27=1
 ModelType28=PCBLIB
-ModelName28=ESL476M100AH9AA
+ModelName28=ELKO 35 x 50 x 10
 ModelUpdate28=1
 ModelType29=PCBLIB
-ModelName29=HDR1X10
+ModelName29=Elko 5 x 11 x 1,5
 ModelUpdate29=1
 ModelType30=PCBLIB
-ModelName30=HDR1X2
+ModelName30=Elko 6,3 x 11 x 2,5
 ModelUpdate30=1
 ModelType31=PCBLIB
-ModelName31=HDR1X5
+ModelName31=ESL476M100AH9AA
 ModelUpdate31=1
 ModelType32=PCBLIB
-ModelName32=HDR1X9
+ModelName32=HDR1X10
 ModelUpdate32=1
 ModelType33=PCBLIB
-ModelName33=HDR2X4
+ModelName33=HDR1X2
 ModelUpdate33=1
 ModelType34=PCBLIB
-ModelName34=IHLP-6767GZ
+ModelName34=HDR1X5
 ModelUpdate34=1
 ModelType35=PCBLIB
-ModelName35=Inductor 11x11mm
+ModelName35=HDR1X9
 ModelUpdate35=1
 ModelType36=PCBLIB
-ModelName36=Keystone5000
+ModelName36=HDR2X4
 ModelUpdate36=1
 ModelType37=PCBLIB
-ModelName37=Keystone5001
+ModelName37=IHLP-6767GZ
 ModelUpdate37=1
 ModelType38=PCBLIB
-ModelName38=Keystone5002
+ModelName38=Inductor 11x11mm
 ModelUpdate38=1
 ModelType39=PCBLIB
-ModelName39=Keystone5003
+ModelName39=LED Filament
 ModelUpdate39=1
 ModelType40=PCBLIB
-ModelName40=Keystone5004
+ModelName40=LFPAK56
 ModelUpdate40=1
 ModelType41=PCBLIB
-ModelName41=Keystone5016
+ModelName41=PCB Jumper NO
 ModelUpdate41=1
 ModelType42=PCBLIB
-ModelName42=LED Filament
+ModelName42=PG-TDSON-8
 ModelUpdate42=1
 ModelType43=PCBLIB
-ModelName43=LFPAK56
+ModelName43=Random film cap
 ModelUpdate43=1
 ModelType44=PCBLIB
-ModelName44=MOLEX KK 0022272021
+ModelName44=Rubycon MXG ElKo
 ModelUpdate44=1
 ModelType45=PCBLIB
-ModelName45=PCB Jumper NO
+ModelName45=SLIM MOX 1.5W
 ModelUpdate45=1
 ModelType46=PCBLIB
-ModelName46=PG-TDSON-8
+ModelName46=SM-42 Trimmer
 ModelUpdate46=1
 ModelType47=PCBLIB
-ModelName47=Random film cap
+ModelName47=SO-8FL - Dual
 ModelUpdate47=1
 ModelType48=PCBLIB
-ModelName48=RES 1206/3216
+ModelName48=SOD123
 ModelUpdate48=1
 ModelType49=PCBLIB
-ModelName49=Rubycon MXG ElKo
+ModelName49=SOD523
 ModelUpdate49=1
 ModelType50=PCBLIB
-ModelName50=SLIM MOX 1.5W
+ModelName50=SOIC8
 ModelUpdate50=1
 ModelType51=PCBLIB
-ModelName51=SM-42 Trimmer
+ModelName51=SOIC8 EXPOSED
 ModelUpdate51=1
 ModelType52=PCBLIB
-ModelName52=SO-8FL - Dual
+ModelName52=SON127P600 4 POS (8.50mm x 5.60mm)
 ModelUpdate52=1
 ModelType53=PCBLIB
-ModelName53=SOD523
+ModelName53=sot 23
 ModelUpdate53=1
 ModelType54=PCBLIB
-ModelName54=SOIC8
+ModelName54=Sot 23-8
 ModelUpdate54=1
 ModelType55=PCBLIB
-ModelName55=SOIC8 EXPOSED
+ModelName55=SOT223
 ModelUpdate55=1
 ModelType56=PCBLIB
-ModelName56=SON127P600 4 POS (8.50mm x 5.60mm)
+ModelName56=SRN6028 Series Inductor
 ModelUpdate56=1
 ModelType57=PCBLIB
-ModelName57=sot 23
+ModelName57=SRP1770TA
 ModelUpdate57=1
 ModelType58=PCBLIB
-ModelName58=Sot 23-8
+ModelName58=to220
 ModelUpdate58=1
 ModelType59=PCBLIB
-ModelName59=SOT223
+ModelName59=TO220 Retrofit DC-DC
 ModelUpdate59=1
 ModelType60=PCBLIB
-ModelName60=SRN6028 Series Inductor
+ModelName60=to220 right angle
 ModelUpdate60=1
 ModelType61=PCBLIB
-ModelName61=SRP1770TA
+ModelName61=TO247 Right Angle
 ModelUpdate61=1
 ModelType62=PCBLIB
-ModelName62=testpoint
+ModelName62=TO247 Right Angle Side Mount
 ModelUpdate62=1
 ModelType63=PCBLIB
-ModelName63=TESTPOINT_THT
+ModelName63=TO252
 ModelUpdate63=1
 ModelType64=PCBLIB
-ModelName64=to220
+ModelName64=TO252 DPAk
 ModelUpdate64=1
 ModelType65=PCBLIB
-ModelName65=TO220 Retrofit DC-DC
+ModelName65=TO-263 D2PAK
 ModelUpdate65=1
 ModelType66=PCBLIB
-ModelName66=to220 right angle
+ModelName66=TO-277-3LD
 ModelUpdate66=1
 ModelType67=PCBLIB
-ModelName67=TO247 Right Angle
+ModelName67=TQFP 100
 ModelUpdate67=1
 ModelType68=PCBLIB
-ModelName68=TO247 Right Angle Side Mount
+ModelName68=Trimmer vert
 ModelUpdate68=1
 ModelType69=PCBLIB
-ModelName69=TO252
+ModelName69=UFW 22x50 flat
 ModelUpdate69=1
 ModelType70=PCBLIB
-ModelName70=TO252 DPAk
+ModelName70=USB 2.0 Type B
 ModelUpdate70=1
 ModelType71=PCBLIB
-ModelName71=TO-263 D2PAK
+ModelName71=USB 2.0 Type B Vertical
 ModelUpdate71=1
 ModelType72=PCBLIB
-ModelName72=TO-277-3LD
+ModelName72=WE-HCI Series inductor
 ModelUpdate72=1
-ModelType73=PCBLIB
-ModelName73=TQFP 100
-ModelUpdate73=1
-ModelType74=PCBLIB
-ModelName74=Trimmer vert
-ModelUpdate74=1
-ModelType75=PCBLIB
-ModelName75=UFW 22x50 flat
-ModelUpdate75=1
-ModelType76=PCBLIB
-ModelName76=USB 2.0 Type B
-ModelUpdate76=1
-ModelType77=PCBLIB
-ModelName77=USB 2.0 Type B Vertical
-ModelUpdate77=1
-ModelType78=PCBLIB
-ModelName78=WE-HCI Series inductor
-ModelUpdate78=1
 ModelTypeGroup1=SI
 ModelTypeUpdate1=1
-ModelType79=SI
-ModelName79=Connector
-ModelUpdate79=1
+ModelType73=SI
+ModelName73=Connector
+ModelUpdate73=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

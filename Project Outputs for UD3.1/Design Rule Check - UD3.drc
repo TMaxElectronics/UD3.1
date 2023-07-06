@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : F:\OneDrive\Altium\Projects\UD3.1\UD3.1.PcbDoc
-Date     : 08/05/2023
-Time     : 23:17:56
+Date     : 07/07/2023
+Time     : 01:25:21
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -42,7 +42,7 @@ Rule Violations :0
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (0.19mm < 0.254mm) Between Board Edge And Text "+24V" (103.869mm,112.923mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.19mm < 0.254mm) Between Board Edge And Text "+24V" (108.949mm,112.923mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.19mm < 0.254mm) Between Board Edge And Text "+24V" (117.776mm,112.923mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.19mm < 0.254mm) Between Board Edge And Text "+24V" (120.316mm,112.923mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.091mm < 0.254mm) Between Board Edge And Text "+24V" (131.047mm,112.923mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.19mm < 0.254mm) Between Board Edge And Text "+24V" (92.249mm,112.923mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.19mm < 0.254mm) Between Board Edge And Text "+24V" (97.329mm,112.923mm) on Top Overlay 
