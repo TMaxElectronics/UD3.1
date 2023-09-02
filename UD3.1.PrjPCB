@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for UD3.1
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -448,8 +448,12 @@ DocumentPath=Gerber\UD3.1a\UD3.1.TXT
 DItemRevisionGUID=
 
 [Parameter1]
+Name=
+Value=
+
+[Parameter2]
 Name=ProjectVersion
-Value=UD3.1a
+Value=UD3.1c
 
 [Configuration1]
 Name=Default Configuration
@@ -462,7 +466,7 @@ ContentTypeGUID=
 ConfigurationType=
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for UD3.1
 
 [OutputGroup1]
 Name=Netlist Outputs
