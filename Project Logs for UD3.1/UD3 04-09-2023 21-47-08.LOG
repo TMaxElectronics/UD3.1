@@ -1,0 +1,14 @@
+Added Component: Designator=Reg1(TSOT26)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "AP63203WU-7DICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "AP63200WU-7DICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "AP63201WU-7DICT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC135_2 Pin=Reg1-1
+Added Pin To Net: NetName=+5V Pin=Reg1-2
+Added Pin To Net: NetName=+5V Pin=Reg1-3
+Added Pin To Net: NetName=GND Pin=Reg1-4
+Added Pin To Net: NetName=NetC134_2 Pin=Reg1-5
+Added Pin To Net: NetName=NetC134_1 Pin=Reg1-6
+Added Member To Class: ClassName=Power Supply Member=Component Reg1 Buck regulator

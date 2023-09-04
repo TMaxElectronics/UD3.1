@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : F:\OneDrive\Altium\Projects\UD3.1\UD3.1.PcbDoc
-Date     : 02/09/2023
-Time     : 20:19:12
+Date     : 04/09/2023
+Time     : 23:18:29
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -46,6 +46,7 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (0.091mm < 0.254mm) Between Board Edge And Text "+24V" (131.047mm,112.923mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.19mm < 0.254mm) Between Board Edge And Text "+24V" (92.249mm,112.923mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.19mm < 0.254mm) Between Board Edge And Text "+24V" (97.329mm,112.923mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.14mm < 0.254mm) Between Board Edge And Text "C131" (68.682mm,112.399mm) on Bottom Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.235mm < 0.254mm) Between Board Edge And Text "Rly4" (106.506mm,112.923mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.076mm < 0.254mm) Between Board Edge And Track (138.498mm,60.969mm)(145.708mm,60.969mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.076mm < 0.254mm) Between Board Edge And Track (138.498mm,66.049mm)(145.708mm,66.049mm) on Top Overlay 
@@ -56,12 +57,12 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (0.076mm < 0.254mm) Between Board Edge And Track (145.708mm,60.969mm)(145.708mm,66.049mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.076mm < 0.254mm) Between Board Edge And Track (145.708mm,66.557mm)(145.708mm,71.637mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.064mm < 0.254mm) Between Board Edge And Track (145.72mm,95.402mm)(145.72mm,105.562mm) on Top Overlay 
-Rule Violations :16
+Rule Violations :17
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 16
+Violations Detected : 17
 Waived Violations : 0
 Time Elapsed        : 00:00:02

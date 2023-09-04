@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=Gerber Export.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Lexmark International Lexmark E260
+TargetPrinter=Lexmark M1100 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -150,7 +150,7 @@ OutputPathMedia3=Gerber
 OutputPathMediaValue3=Gerber
 OutputPathOutputer3=[Output Custom]
 OutputPathOutputerPrefix3=
-OutputPathOutputerValue3=UD3.1b
+OutputPathOutputerValue3==ProjectVersion
 OutputFileName3=
 OutputFileNameMulti3=
 UseOutputNameForMulti3=1

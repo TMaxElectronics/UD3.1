@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: UD3.1.PcbDoc   05/09/2023  01:11:23
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : UD3.1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             325       PTH        729.83mm (28.73inch)
+T2      0.4mm (16mil)                                             Round             46        PTH        484.12mm (19.06inch)
+T3      0.5mm (20mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T4      0.7mm (28mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T5      0.8mm (31mil)                                             Round             5         PTH        68.79mm (2.71inch)
+T6      0.9mm (35mil)                                             Round             46        PTH        239.43mm (9.43inch)
+T7      1mm (39mil)                                               Round             60        PTH        368.25mm (14.50inch)
+T8      1.1mm (43mil)                                             Round             4         PTH        29.23mm (1.15inch)
+T9      1.5mm (59mil)                                             Round             2         PTH        5.08mm (0.20inch)
+T10     2.3mm (91mil)                                             Round             4         PTH        27.71mm (1.09inch)
+T11     3.1mm (122mil)                                            Round             4         PTH        252.00mm (9.92inch)
+T12     2.3mm (91mil)           +/-0mm (0mil)                     Round             18        NPTH       196.45mm (7.73inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              516
+
+Total Processing Time (hh:mm:ss) : 00:00:00
