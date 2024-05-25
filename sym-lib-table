@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "UD3.1-altium-import")(type "KiCad")(uri "${KIPRJMOD}/Symbols/UD3.1-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "UD3_Symbols")(type "KiCad")(uri "${KIPRJMOD}/Symbols/UD3_Symbols.kicad_sym")(options "")(descr ""))
+)

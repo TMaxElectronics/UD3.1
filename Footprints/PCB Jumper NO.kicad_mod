@@ -1,0 +1,140 @@
+(footprint "PCB Jumper NO"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 2.2 1.6 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "364820bf-b101-4495-8a42-deee36f8615e")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.2)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" ""
+		(at 4.2 5.4 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c0bc7fb5-05ea-4548-8059-eaad0876e3e4")
+		(effects
+			(font
+				(face "Consolas")
+				(size 1 1)
+				(thickness 0.25)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(render_cache "" 90)
+	)
+	(property "Footprint" "PCB Jumper NO"
+		(at -1.9 -0.9 90)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a71398a4-0f85-42ea-97ea-7bca0b449397")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "bad3e9e6-8136-4d84-95e6-d0999f1ff50d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "cead346f-11a8-4ae1-b2c6-9453901b30c0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(attr smd exclude_from_pos_files exclude_from_bom)
+	(fp_rect
+		(start 0.88943 0.508)
+		(end -0.81237 -0.508)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "def76ed8-7eee-47aa-b9c1-f0ecb440c613")
+	)
+	(pad "1" smd custom
+		(at 0.5334 0.4064 90)
+		(size 0.000001 0.000001)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.000001)
+		(solder_paste_margin 0.000001)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0 0) (xy 0.4064 -0.5588) (xy 0.8128 0.0508) (xy 0.8128 0.254) (xy 0 0.254)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "2afc2e20-216b-49c5-a0c7-5284a1a7f31d")
+	)
+	(pad "1" smd circle
+		(at 0.5842 0)
+		(size 0.0254 0.0254)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "00b023b0-465e-4cc9-aada-18300a6c9492")
+	)
+	(pad "2" smd custom
+		(at -0.7048 0.4064 90)
+		(size 0.000001 0.000001)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.000001)
+		(solder_paste_margin 0.000001)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0 0) (xy 0.8128 0) (xy 0.8128 1.0096) (xy 0.4064 0.4) (xy 0 0.9588)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "67ebd86f-2332-4fd9-b8e3-d45151011934")
+	)
+	(pad "2" smd circle
+		(at -0.6096 0)
+		(size 0.0254 0.0254)
+		(layers "F.Cu" "F.Paste")
+		(uuid "6701d70a-8d5c-4d3e-848e-42b8824f11ea")
+	)
+)
