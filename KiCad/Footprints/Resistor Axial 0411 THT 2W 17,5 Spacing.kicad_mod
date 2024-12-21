@@ -1,0 +1,136 @@
+(footprint "Resistor Axial 0411 THT 2W 17,5 Spacing"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.25946 1.3329 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c2dfd1ee-e514-411c-b553-84a88476d776")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.25)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" ""
+		(at 1.26454 1.2496 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "7f488cc0-0b6d-4759-826f-0d92b71059d1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.25)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "Resistor Axial 0411 THT 2W 17,5 Spacing"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0192e716-dd54-4fa5-af11-de150bc017ee")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37bbbf7e-575a-4ba4-8bdc-a2103d9baa72")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a09e39ec-e96a-46c4-80d2-224dc67112d8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.7446 5.8928)
+		(end -1.7446 -5.8928)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "68d0867c-4cc0-46aa-9dab-55cace1ff563")
+	)
+	(fp_line
+		(start 1.75 -5.8928)
+		(end -1.7446 -5.8928)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c521c5a8-3f32-444d-b4b4-c96e68c76870")
+	)
+	(fp_line
+		(start 1.75 5.8928)
+		(end -1.7446 5.8928)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fe66c401-13b1-4f36-9622-bb8c47cb1cd4")
+	)
+	(fp_line
+		(start 1.75 5.8928)
+		(end 1.75 -5.8928)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d2f3addb-824d-4aef-9797-08013546848b")
+	)
+	(pad "1" thru_hole circle
+		(at 0 -8.75)
+		(size 1.75 1.75)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cb3388d0-00c3-416f-90b7-05f1f68b5b93")
+	)
+	(pad "2" thru_hole circle
+		(at 0 8.75)
+		(size 1.75 1.75)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "41d40f2f-ec0f-4e9a-9dd0-0e854ddc7559")
+	)
+	(model "${KIPRJMOD}/Models/R_1W__D3,5__L10__Pitch-17,5__Spacing-0.stp"
+		(offset
+			(xyz 0 -5 2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -180 0)
+		)
+	)
+)
